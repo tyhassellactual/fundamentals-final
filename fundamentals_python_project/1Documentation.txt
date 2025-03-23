@@ -1,0 +1,28 @@
+Program Architecture:
+    A) Libraries: 
+        assignmentLessonLib- Return reflections. (Bad for real programs, but just do it. It will perform fine for this.)
+        techInterviewLib- Return answers to questions for technical Python knowledge part of assignment.
+    B) Tests:
+        menu_test- Test for menu display
+        choice_test- Test for choice outcomes and exception handling
+        assignment_test & techInterview_test- import appropriate libraries and use functions to check for cross-functionality
+    c) Documentation- Completed with each step Completed
+
+* assignmentLessonLib written and complete
+* techInterviewLib created
+* lessonMenu() created in function to display assignments as choices in an array
+* techInterviewMenu() created in function to display assignment as choices in an array
+* mainMenu() created in fucntion to display a choice between lesson reflections, python knowledge, and exiting
+* tested display of all menus
+
+* created mainChoice() function to choose between lesson reflection and technical knowledge
+* tested mainChoice() printing "not yet implemented" for techInterviewMenu and lessonMenu
+* created lessonChoice() funtion to pull from assignmentLessonLib as reflection
+* wrote techInterviewLib for answers to Python knowledge questions
+* tested all other functions seperately
+* Full integration tested!!!
+
+Complete!
+
+
+-Ty
